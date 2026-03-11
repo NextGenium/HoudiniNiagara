@@ -1,3 +1,5 @@
+# DEPRECATED до UE5.6 использовали отдельные плагины для Hodini, сейчас объединили в один - https://github.com/NextGenium/Houdini
+
 # Houdini Niagara plug-in for Unreal
 
 This plug-in adds a new "Houdini Data Interface" to Niagara.
